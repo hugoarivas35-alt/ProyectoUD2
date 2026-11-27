@@ -1,0 +1,10 @@
+<svg width="220" height="100" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_8" height="18" width="187" y="68" x="15" stroke="#000" fill="none"/>
+  <ellipse stroke="#000" ry="31" rx="72" id="svg_3" cy="50" cx="108.5" fill="#15c6c6"/>
+  <text font-style="italic" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" stroke-width="0" id="svg_5" y="41" x="43.33398" stroke="#000" fill="#000000">THD Factory</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="30" stroke-width="0" id="svg_6" y="76" x="43.16992" stroke="#000" fill="#ff0000">Fuengirola</text>
+ </g>
+
+</svg>
